@@ -8,7 +8,7 @@ import androidx.fragment.app.FragmentActivity;
  * Main Activity class that loads {@link MainFragment}.
  */
 public class MainActivity extends FragmentActivity {
-  //this is merge base ;
+  //this is 0 base ;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
