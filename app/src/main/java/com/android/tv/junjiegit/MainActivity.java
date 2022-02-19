@@ -8,7 +8,7 @@ import androidx.fragment.app.FragmentActivity;
  * Main Activity class that loads {@link MainFragment}.
  */
 public class MainActivity extends FragmentActivity {
-  //this is 0 firt base ;
+  //this is my firt base ;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,4 +19,5 @@ public class MainActivity extends FragmentActivity {
                     .commitNow();
         }
     }
+    //this test conflit
 }
