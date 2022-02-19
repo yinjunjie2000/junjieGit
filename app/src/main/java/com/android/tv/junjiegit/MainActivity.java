@@ -8,7 +8,7 @@ import androidx.fragment.app.FragmentActivity;
  * Main Activity class that loads {@link MainFragment}.
  */
 public class MainActivity extends FragmentActivity {
-  //this is 0 base ;
+  //this is  base ;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -19,5 +19,5 @@ public class MainActivity extends FragmentActivity {
                     .commitNow();
         }
     }
-    //this is merge
+    //this is 2 merge
 }
