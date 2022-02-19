@@ -13,7 +13,7 @@ import androidx.leanback.app.ErrorSupportFragment;
 public class ErrorFragment extends ErrorSupportFragment {
     private static final String TAG = "ErrorFragment";
     private static final boolean TRANSLUCENT = true;
-
+//add dd
     @Override
     public void onCreate(Bundle savedInstanceState) {
         Log.d(TAG, "onCreate");
