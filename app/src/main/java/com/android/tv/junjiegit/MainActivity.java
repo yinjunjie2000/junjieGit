@@ -8,7 +8,7 @@ import androidx.fragment.app.FragmentActivity;
  * Main Activity class that loads {@link MainFragment}.
  */
 public class MainActivity extends FragmentActivity {
-  //this is 5 firt base ;
+  //this is master firt base ;
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
